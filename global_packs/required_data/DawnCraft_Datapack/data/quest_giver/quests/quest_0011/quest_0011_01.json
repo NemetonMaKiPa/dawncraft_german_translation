@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Und?"
     },
     "description": {
-      "text": "Give me 10 emeralds and I'll teach you how to use the loom!"
+      "text": "Gib mir 10 Smaradge und ich bring dir bei wie du den Webstuhl benutzt!"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Danke!"
     },
     "description": {
-      "text": "There you go!"
+      "text": "Los geht's!"
     }
   },
   "tasks": [

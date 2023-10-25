@@ -4,18 +4,18 @@
   "icon": "minecraft:white_wool",
   "start": {
     "title": {
-      "text": "So?"
+      "text": "Und?"
     },
     "description": {
-      "text": "Give me 10 emeralds and I'll teach you how to use the grindstone! Cheap right?"
+      "text": "Gib mir 10 Smaradge und ich bring dir bei wie man einen Schleifstein benutzt. Günstig, oder?"
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Danke!"
     },
     "description": {
-      "text": "There you go! Easy right?"
+      "text": "Und los geht's! Sehr einfach, oder?"
     }
   },
   "tasks": [

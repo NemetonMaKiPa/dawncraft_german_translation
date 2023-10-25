@@ -7,15 +7,15 @@
       "text": "So?"
     },
     "description": {
-      "text": "Huh? Oh you forgot. I was asking for $(red)4 Lion Hide$()."
+      "text": "Huh? Hast du es vergessen? Ich benötige $(red)4 Löwenfelle$()."
     }
   },
   "complete": {
     "title": {
-      "text": "Thanks!"
+      "text": "Danke!"
     },
     "description": {
-      "text": "Thanks. Here, happy doing business with you."
+      "text": "Vielen Dank. Es ist immer wieder eine Freude mit dir Geschäfte zu machen."
     }
   },
   "tasks": [
