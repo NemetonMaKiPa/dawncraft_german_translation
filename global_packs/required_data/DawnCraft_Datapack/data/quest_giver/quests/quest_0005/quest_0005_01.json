@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0005_01b",
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Und?"
+    },
+    "description": {
+      "text": "Hast du die $(red)8 Knochen$() bekommen?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Vielen Dank!"
+    },
+    "description": {
+      "text": "Wunderbar! Jetzt werden meine Feldfrüchte schneller als die der anderen Bauern wachsen! Haha! Meine hochachtungsvollen Dank, dafür überreiche ich euch einen Smaragd."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:bone"
+      },
+      "id": "quest_giver:gift",
+      "times": 8
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

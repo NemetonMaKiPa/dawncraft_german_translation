@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Du möchtest was über das Angeln lernen? Es braucht Geduld, Ausdauer und vor allem einen guten Lehrer! Für 15 Smaragde kann ich dir beibringen, wie man fischt! Was sagst du dazu?"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0002_01b",
+  "reputation": 0,
+  "icon": "minecraft:rabbit_foot",
+  "start": {
+    "title": {
+      "text": "Ein Gefallen"
+    },
+    "description": {
+      "text": "Nun, habt ihr vielleicht eine Hasenpfote?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Well great!"
+    },
+    "description": {
+      "text": "Wunderbar! Ich habe nicht viel, dass ich euch als Gegenleistung geben kann... Bitte nehmt dieses gekochte Hammelfleisch als meinen Dank!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:rabbit_foot"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:cooked_mutton"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

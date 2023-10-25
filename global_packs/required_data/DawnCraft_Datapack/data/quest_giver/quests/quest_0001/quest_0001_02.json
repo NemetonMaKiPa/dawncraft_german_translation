@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0001_02b",
+  "reputation": 5,
+  "icon": "minecraft:iron_helmet",
+  "start": {
+    "title": {
+      "text": "Willkommen zurück!"
+    },
+    "description": {
+      "text": "Willkommen zurück! Hast du ein Blatt Papier auftreiben können? Dann kann ich dir eine Karte zeichnen."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Genau an dieser Stelle."
+    },
+    "description": {
+      "text": "Genau an dieser Stelle gibt es ein Haus, dass von diesen kranken und verblendeten Jägern heimgesucht wird... Einer meiner guten Freunde hat ihren Standort aufgespüren können, doch leider sind wir nicht stark genug um sie zu vertreiben. Ich bin mir ziemlich sicher, dass sie sich mit reichlich Beute eingedeckt haben, die sie ihren armen Opfern abgeknöpft haben... Vernichte sie und hol dir ihre Beute! Und bitte halte Ausschau nach einer Halskette, die sie mir gestohlen haben. Sie verstecken gerne Dinge unter dem Tisch. Ich wäre dir unendlich dankbar, wenn du mir die Halskette zurückbringen könntest!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:armorer1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p armorer1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

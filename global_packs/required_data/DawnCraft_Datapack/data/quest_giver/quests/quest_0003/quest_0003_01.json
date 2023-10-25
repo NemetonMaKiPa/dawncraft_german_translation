@@ -1,0 +1,50 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Ein Gefallen"
+    },
+    "description": {
+      "text": "Hi! Konntest du den Beutel mit Tintenfischtinte und das Papier besorgen, das ich benötige? Ich brauche jeweils 1 davon."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Vielen Dank!"
+    },
+    "description": {
+      "text": "Du bist mein Lebensretter! Hier, könntest du die Gegend erkunden und Karte ausfüllen"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:ink_sac"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:map"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

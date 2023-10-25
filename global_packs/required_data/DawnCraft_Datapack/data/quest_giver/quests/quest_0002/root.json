@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Hey, hast du gerade etwas Zeit?"
+    },
+    "description": {
+      "text": "Hey, hast du gerade etwas Zeit? Werter Abenteurer, kannst du mir vielleicht etwas holen?"
+    }
+  }
+}

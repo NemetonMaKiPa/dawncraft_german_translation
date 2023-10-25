@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Guten Tag junger Abenteurer!"
+    },
+    "description": {
+      "text": "Guten Tag junger Abenteurer! Könntet ihr mir vielleicht bei einer Sache helfen?"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+- Villager Quests (global_packs\required_data\DawnCraft_Datapack\data\quest_giver\quests)
+
+- FTBQuest Information (config\ftbquests\quests\chapters)
+
+- Human NPC Quests [Link]
+
+- DawnCraft Mobs lang file

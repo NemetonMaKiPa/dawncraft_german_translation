@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Hallo Freund!"
+    },
+    "description": {
+      "text": "Hallo Freund, kannst du mir etwas Tintenfischtinte und Papier besorgen?"
+    }
+  }
+}

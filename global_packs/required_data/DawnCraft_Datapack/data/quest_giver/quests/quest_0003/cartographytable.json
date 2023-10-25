@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Lerne, wie du den Kartografietisch benutzt."
+    },
+    "description": {
+      "text": "Oh... hm, okay. Gib mir 15 Smaragde und ich bring dir bei, wie du den Kartografietisch benutzt."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Los gehts."
+    },
+    "description": {
+      "text": "Lass dich von den Geräten auf dem Tisch nicht einschüchtern, du wirst schon bald den Dreh raus haben!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add sailing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

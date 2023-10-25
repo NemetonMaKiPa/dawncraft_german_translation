@@ -1,0 +1,12 @@
+{
+  "reputation": 25,
+  "icon": "minecraft:diamond",
+  "start": {
+    "title": {
+      "text": "Vergiss es."
+    },
+    "description": {
+      "text": "Der Dorfbewohner hat in letzter Sekunde entschieden, nicht mehr mit dir reden zu wollen."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Angelrute freischalten"
+    },
+    "description": {
+      "text": "Bis du bereit etwas über das Angeln zu lernen? Gib mir 15 Smaragde!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Danke!"
+    },
+    "description": {
+      "text": "Ist doch eigentlich gar nicht so schwer, oder? Du darfst die Angel aber nicht zu sehr herum schwingen, sonst verscheucht das die Fische."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add fishing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

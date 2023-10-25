@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Ratschlag"
+    },
+    "description": {
+      "text": "Meinen kostbaren Feldfrüchten geht es in letzter Zeit nicht gut ... Glaubst du, du kannst mir helfen, $(red)8 Knochen$() zu bekommen, damit ich daraus Dünger herstellen kann?"
+    }
+  }
+}

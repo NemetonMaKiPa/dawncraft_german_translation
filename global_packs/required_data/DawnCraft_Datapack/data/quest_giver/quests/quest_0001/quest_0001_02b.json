@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0001_01",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Wenn ich so darüber nachdenke..."
+    },
+    "description": {
+      "text": "Wenn ich so darüber nachdenke... Es gibt eine Möglichkeit für mich, wie ich mich revanchieren kann. Könntest du mir ein Blatt Papier holen, damit ich dir eine Karte zeichnen kann?"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Hey!"
+    },
+    "description": {
+      "text": "Guten Tag! Für 10 Smaragde kann ich dir beibringen, wie man den Bognertisch richtig benutzt!"
+    }
+  }
+}

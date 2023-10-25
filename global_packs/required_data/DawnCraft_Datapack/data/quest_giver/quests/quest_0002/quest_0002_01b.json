@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Ein Gefallen"
+    },
+    "description": {
+      "text": "Wunderbar! Es ist schon ene Weile her seit unsere Jäger das letzte Mal einen Hasen gefangen haben... Ich wäre euch sehr dankbar, wenn ihr mit alle $(red)Hasenpfoten$() geben könntet, dir ihr habt."
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0001_01b",
+  "reputation": 5,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "Bringt mir etwas!"
+    },
+    "description": {
+      "text": "Guten Tag! Habt ihr vielleicht $(red)4 Eisenbarren$() für mich übrig?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Vielen Dank!"
+    },
+    "description": {
+      "text": "Vielen Dank! Jetzt kann ich endlich die Rüstung für den Wächter herstellen... Er hat einfach nicht aufgehört mich ständig danach zu fragen! Leider kann ich dir im Moment nichts für deine Dienste geben, aber ich schwöre dir, mich eines Tages dafür zu revanchieren!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ]
+}

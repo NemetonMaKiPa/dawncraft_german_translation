@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Hi!"
+    },
+    "description": {
+      "text": "Hi Abenteurer, kannst du mir $(red)5x verrottetes Fleisch$() bringen? Ich brauche es zum Brauen von Tränken."
+    }
+  }
+}

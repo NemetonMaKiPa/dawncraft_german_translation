@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Hol mir etwas!"
+    },
+    "description": {
+      "text": "Ich brauchte etwas! Kannst du mir bitte $(red)4 Eisenbarren$() bringen? Mir geht langsam das Material aus, um weitere Rüstungen herzustellen... Ich werde es dir eines Tages zurückzahlen, das verspreche ich!"
+    }
+  }
+}

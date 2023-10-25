@@ -1,0 +1,49 @@
+{
+  "parent": "quest_giver:quest_0001_02",
+  "reputation": 5,
+  "icon": "minecraft:blast_furnace",
+  "start": {
+    "title": {
+      "text": "Guten Tag."
+    },
+    "description": {
+      "text": "Guten Tag. Hast du die Neulinge gefunden? Normalerweise verstecken sie ihre Wertsachen unter den Tischen."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Zu guterletzt..."
+    },
+    "description": {
+      "text": "Zu guterletzt, Juan... habe ich es endlich zurück... Ich habe mein Gelübde nicht gebrochen... Oh, los geht's. Vielen Dank dafür, es bedeutet mir wirklich sehr viel!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "simple_mobs:armorers_pendant"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "type": "minecraft:item_nbt",
+        "item": "minecraft:iron_chestplate",
+        "nbt": "{display:{Name:'[{\"text\":\"Schwurbewahrer\",\"italic\":false}]',Lore:['[{\"text\":\"Eine Brustplatte, die der Waffenschmied speziell für seinen Champion angefertigt hat.\",\"italic\":false}]']},Enchantments:[{id:mending,lvl:1},{id:protection,lvl:2}]}"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_armorer",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}
