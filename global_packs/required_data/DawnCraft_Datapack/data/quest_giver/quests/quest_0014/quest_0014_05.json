@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "We have very little information on Knight Rober in his current state, but he should be quite weakened since the last war... Oh, remember to bring ender pearls. He has a nasty attack that can only be escaped via teleportation."
+      "text": "Über die aktuelle Verfassung von Ritter Rober haben wir leider nur sehr wenige Informationen, aber er dürfte seit dem letzten Krieg ziemlich geschwächt sein ... Oh, denkt daran Enderperlen mitzunehmen! Er hat einen fiesen Angriff, dem man nur durch Teleportation entkommen kann."
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "Wow, you've defeated Knight Rober huh. Was he tough? Back in the day he was one of the scariest opponent you could face in a duel, guess his age caught up to him finally. Well, the next eye-holder is another human. He's currently living peacefully in his farmhouse... Here's the map to his location."
+      "text": "Unglaublich, du hast den Ritter Rober besiegt? Er war sicherlich ein harter Gegner! Damals war er einer der furchteinflößendsten Gegner, denen man in einem Duell begegnen konnte. Ich schätze, sein Alter hat auch ihn schließlich eingeholt. Nun, der nächste Träger eines Auges ist ein anderer Mensch. Zurzeit lebt er friedlich in seinem Bauernhaus... Hier ist die Karte mit seinem Standort."
     }
   },
   "tasks": [
@@ -47,6 +47,6 @@
     {
       "command": "/gamestage add @p guildmaster5 true",
       "id": "quest_giver:command"
-    }    
+    }
   ]
 }

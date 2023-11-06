@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "The Ogre is on a different level compared to the goblin king. Proceed with caution."
+      "text": "Der Oger ist um einiges zäher als der Koboldkönig, seid äußerst vorsichtig!"
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "Well done. Perhaps you'll be able to face $(red)Knight Rober$() now. He is much weaker than who he once was, but I'd assume that he's still very dangerous, as he is still able to contain the power of the eye he's holding. Here's the map to his current whereabouts."
+      "text": "Wunderbar! Vielleicht bist du jetzt schon in der Lage dich dem $(red)Ritter Rober$() entgegenzustellen. Es ist zwar nur noch ein Schatten seines früheren Ichs, dennoch gehe ich davon aus, dass er immer noch eine große Gefahr darstellt! Rober ist immer noch fähig, die Kraft des Auges, dass sich in seinem Besitz befinden, zu bändigen und gegen euch einzusetzen! Ich habe seinen aktuellen Aufenthaltsort auf der Karte markiert!"
     }
   },
   "tasks": [

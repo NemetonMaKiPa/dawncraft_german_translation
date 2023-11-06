@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "See the map I gave you? Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
+      "text": "Du hast doch noch die Karte, die ich dir gegeben habe? Dein erste Auftrag See the map I gave you? Your first assignment is to exterminate the $(red)Goblin King$(). They can be found on top of their castles."
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "Good job. Seems you're ready to take on the $(red)Corrupted Ogre$(). Here, the creature dwelling in the marked spot is holding one of the eyes."
+      "text": "Gut gemacht! Scheint so, als wärst du bereit es mit dem $(red)verdorbenen Oger$() aufzunehmen! Die Kreatur, bei der auf der Karte markierten Stelle, ist im Besitz eines der Augen!"
     }
   },
   "tasks": [
@@ -32,7 +32,7 @@
       "command": "/loot give @p loot minecraft:guildmaster1",
       "id": "quest_giver:command"
     },
-     {
+    {
       "command": "/advancement grant @p only simple_mobs:goblin_king_quest_complete",
       "id": "quest_giver:command"
     },

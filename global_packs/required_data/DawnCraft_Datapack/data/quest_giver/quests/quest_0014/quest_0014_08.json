@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "The Sentinel Knight protected the Guardian Eye for centuries. None of the adventurers I know ever got past him... I heard that he's holding the key that frees the eye from its dormant state."
+      "text": "Der Wachritter, in den alten Schriften auch 'Sentinel Knight' genannt, beschützt das 'Wächterauge' schon seit Jahrhunderten. Keinem Abenteurer ist es bisher gelungen, an ihm vorbeizukommen... Meines Wissens nach ist er im Besitz des Schlüssels, dass das Auge aus seinem Schlaf erwachen lässt."
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "Amazing. Even the Sentinel Knight is no match for you... Well, you're approaching the end of your journey. How do you feel? ... Anyway, you'll need to summon the next eye holder. Here, take this knot of hair and the map to its summoning altar."
+      "text": "Unglaublich! Selbst ein Gegner wie der Wachritter stellt keine Herausforderung für dich dar... Deine Reise neigt sich langsam dem Ende zu, wie fühlt ihr euch so? ... Wie dem auch sei, den nächsten Träger eines Auges müsst ihr beschwören! Hier, bringt diesen Haarknoten zu dem Beschwörungsaltar. Ich markiere euch die Stelle auf der Karte."
     }
   },
   "tasks": [
@@ -50,6 +50,6 @@
     {
       "command": "/gamestage add @p guildmaster8 true",
       "id": "quest_giver:command"
-    }    
+    }
   ]
 }

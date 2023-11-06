@@ -4,18 +4,18 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "The next eye holder is an undead. An undead with many tricks up its sleeves to be precise... It's surrounded by its followers, so you might have trouble getting to him."
+      "text": "Der nächste Träger eines Auges ist ein Untoter. Ein Untoter, der viele Tricks im Ärmel hat, um genau zu sein... Er ist von seinen Anhängern umgeben, so dass du möglicherweise Schwierigkeiten haben wirst, an ihn heranzukommen."
     }
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "The Skeleton Lord is probably the most powerful undead I've ever seen. I'm surprised you're able to take him down. Alright, let's see... The next eye is guarded by a renowned Holy Knight. I'm not sure if it's possible for even you. Anyhow, I'll give you its location. Proceed with caution."
+      "text": "Der Fürst der Skelett ist wahrscheinlich der mächtigste Untote gewesen, den ich je gesehen habe. Ich bin überrascht, dass du ihn besiegen konntest. Okay, machen wir weiter ... Das nächste Auge wird von einem berühmten heiligen Ritter bewacht. Ich bin mir nicht sicher, ob ihr das wirklich schaffen könnt. Wie dem auch sei, ich zeige euch seinen Aufenthaltsort. Aber seid gewarnt."
     }
   },
   "tasks": [

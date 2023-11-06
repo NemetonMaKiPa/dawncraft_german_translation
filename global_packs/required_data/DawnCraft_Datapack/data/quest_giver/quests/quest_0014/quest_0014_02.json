@@ -4,10 +4,10 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "Good, seems like you're ready for an adventure! Ready to find your first eye?"
+      "text": "Gut, es scheint du bist nun ausreichend für das Abenteuer vorbereitet! Bist du bereit das erste Auge zu finden?"
     }
   }
 }

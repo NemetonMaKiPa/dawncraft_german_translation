@@ -4,7 +4,7 @@
   "icon": "minecraft:iron_sword",
   "start": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
       "text": "Hm... the Nine Tails is not exactly a human. Oh well, you'll know when you see him."
@@ -12,10 +12,10 @@
   },
   "complete": {
     "title": {
-      "text": "Road to the Eye Holders"
+      "text": "Den Augen auf der Spur"
     },
     "description": {
-      "text": "Hmmph... At this point I'm not even surprised. Good job. The Nine Tails was a notoriously violent spirit... I have no idea why it decided to retire at an abandoned barn. Anyhow, here's the whereabouts of the next eye holder. Beware, this is nothing like the ones you've faced before."
+      "text": "Hmm... eigentlich hatte ich inzwischen nichts anderes mehr erwarten. Gute Arbeit! Der Neunschwänzige war ein bekanntermaßen sehr gewalttätiger Geist... Ich habe keine Ahnung, warum er beschlossen hatte, sich in einer verlassenen Scheune zurückzuziehen. Wie dem auch sei, hier ist der Aufenthaltsort des nächsten Trägers eines Auges. Aber Vorsicht, die Wesen mit denen ihr bisher konfrontiert wart, sind nichts im Vergleich zu dem, was euch da erwartet."
     }
   },
   "tasks": [
@@ -47,6 +47,6 @@
     {
       "command": "/gamestage add @p guildmaster6 true",
       "id": "quest_giver:command"
-    }    
+    }
   ]
 }

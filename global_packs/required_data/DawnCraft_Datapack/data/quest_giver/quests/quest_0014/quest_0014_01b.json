@@ -4,10 +4,10 @@
   "icon": "minecraft:enchanted_book",
   "start": {
     "title": {
-      "text": "The Basic Skill"
+      "text": "Die Grundfähigkeit"
     },
     "description": {
-      "text": "Ah... I don't think you'll be able to find the eyes in your current conditions. Come back to me once you've killed $(red)10 pillagers$(). I'll give you the most important skill you can get in this dimension."
+      "text": "Ah... In deiner derzeitigen Form glaube ich nicht daran, dass du in der Lage bist die Augen finden zu können. Kehre zu mir zurück, sobald du $(red)10 Plünderer$() besiegt hast. Anschließend bringe ich dir die wichtigste Fähigkeit bei, die du in dieser Dimension erlernen kann."
     }
   }
 }
